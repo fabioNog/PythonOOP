@@ -27,4 +27,3 @@ animais = [dog,cat]
 
 for animal in animais:
     print(f"{animal.nome} faz: {animal.emitir_som()}")
-
